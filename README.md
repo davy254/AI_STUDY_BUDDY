@@ -5,7 +5,7 @@
 
 **Live demo:** https://az-900.lovable.app
 **Demo video:** _add link here_
-**Pitch deck:** _add link here_
+**Pitch deck:** https://canva.link/o1g1ti1ealprc7m
 
 > ⚠️ **Unofficial study tool.** This project is not affiliated with, endorsed by, or sponsored by Microsoft. It contains **no real exam questions** and uses no Microsoft logos. All questions are original and generated from public Microsoft Learn course content.
 

@@ -1,4 +1,4 @@
-# Paste this into Lovable.dev (or Bolt.new)
+# Prompt used in lovable
 
 Build a mobile-friendly web app called **"AZ-900 Study Buddy (Unofficial)"** for learners preparing for the Microsoft Azure Fundamentals exam. Show a small footer: "Unofficial study tool. Not affiliated with Microsoft. Notes from Microsoft Learn." Do NOT use any Microsoft logos. Clean, friendly, modern design, dark-blue and teal accents, rounded cards.
 

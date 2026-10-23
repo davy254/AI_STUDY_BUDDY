@@ -1,0 +1,33 @@
+# Summary
+
+Completed
+
+* 2 minutes
+
+In this module, you learned about factors that impact costs in Azure and tools to help you both predict potential costs and monitor and control costs. You also reviewed cost optimization options for different workload profiles.
+
+## Learning objectives
+
+You should now be able to:
+
+* Describe factors that can affect costs in Azure.
+* Describe the Azure Pricing calculator.
+* Describe the Microsoft Cost Management Tool.
+* Describe the purpose of tags.
+* Describe cost optimization options, including Reservations, savings plans, and Spot pricing.
+
+## Additional resources
+
+The following resources provide more information on topics in this module or related to this module.
+
+* [Control Azure spending and manage bills with Microsoft Cost Management + Billing](/en-us/learn/paths/control-spending-manage-bills/) is a learning path designed to give you a deeper understanding of cost management tools and strategies in Azure.
+
+## Explore with Copilot
+
+Tip
+
+Try one of these prompts in Copilot Chat:
+
+* "Estimate monthly cost for a sample workload, identify the top cost drivers, and show which assumptions matter most in the pricing calculator."
+* "Create a monthly FinOps routine using Cost Management, tags, budgets, and alerts to control spend and reduce waste."
+* "Given three workload patterns, choose between reservations, savings plans, and Spot pricing and justify each recommendation."

@@ -1,0 +1,1 @@
+Notes in this folder were collected from Microsoft Learn (learn.microsoft.com) for personal, non-commercial study. Content (c) Microsoft. This is an UNOFFICIAL study tool and is not affiliated with or endorsed by Microsoft.

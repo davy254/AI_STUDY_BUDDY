@@ -1,0 +1,14 @@
+{
+  "describe-cloud-compute": "cloud_concepts",
+  "describe-benefits-use-cloud-services": "cloud_concepts",
+  "describe-cloud-service-types": "cloud_concepts",
+  "describe-core-architectural-components-of-azure": "architecture_services",
+  "describe-azure-compute-networking-services": "architecture_services",
+  "describe-azure-networking-services": "architecture_services",
+  "describe-azure-storage-services": "architecture_services",
+  "describe-azure-identity-access-security": "architecture_services",
+  "describe-cost-management-azure": "management_governance",
+  "describe-features-tools-azure-for-governance-compliance": "management_governance",
+  "describe-features-tools-manage-deploy-azure-resources": "management_governance",
+  "describe-monitoring-tools-azure": "management_governance"
+}

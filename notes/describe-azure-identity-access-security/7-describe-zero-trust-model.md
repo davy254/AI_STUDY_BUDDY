@@ -1,0 +1,27 @@
+# Describe Zero Trust model
+
+Completed
+
+* 3 minutes
+
+Zero Trust is a security model that assumes the worst case scenario and protects resources with that expectation. Zero Trust assumes breach at the outset, and then verifies each request as though it originated from an uncontrolled network.
+
+Today, IT teams need a security model that effectively adapts to the complexity of the modern environment; embraces the mobile workforce; and protects people, devices, applications, and data wherever they're located.
+
+To address this new world of computing, Microsoft highly recommends the Zero Trust security model, which is based on these guiding principles:
+
+* **Verify explicitly** - Always authenticate and authorize based on all available data points.
+* **Use least privilege access** - Limit user access with Just-In-Time and Just-Enough-Access (JIT/JEA), risk-based adaptive policies, and data protection.
+* **Assume breach** - Limit the potential impact and segment access. Verify end-to-end encryption. Use analytics to get visibility, drive threat detection, and improve defenses.
+
+## Adjusting to Zero Trust
+
+Traditionally, perimeter-based networks were restricted, protected, and generally assumed safe. Only managed computers could join the network, VPN access was tightly controlled, and personal devices were frequently restricted or blocked.
+
+The Zero Trust model flips that scenario. Instead of assuming that a device is safe because itâs within a trusted internal network, it requires everyone to authenticate. Then grants access based on authentication rather than location.
+
+## Example in practice
+
+Suppose a user signs in from an unmanaged device on a public network. A Zero Trust approach still evaluates identity signals, device state, and risk conditions before granting access. You might allow access to low-risk apps, require MFA for sensitive systems, or block sign-in entirely when risk is too high.
+
+At a fundamentals level, Zero Trust means access decisions are continuous and context-aware, not based only on where the request originates.
